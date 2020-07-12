@@ -1,1 +1,1 @@
-###### animaçao de um canal com colisões de pacotes espúrias
+###### animaçao de um canal tcp com colisões de pacotes espúrias
